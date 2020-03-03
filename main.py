@@ -2,6 +2,7 @@
 # you can add as many as you like
 # some more print examples
 print("Hola")
+print("new text added for illustration purposes")
 print("As you can see, each print will start from a new line")
 # what if we do not want to end with a new line?
 print("we need to use the end argument, ", end="") #end is just the line of text added to the end of the print
